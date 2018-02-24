@@ -1,0 +1,7 @@
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness05(Spyer)\TAT.LOADer\TAT.LOADer\bin\Release\TAT.LOADer.exe
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness05(Spyer)\TAT.LOADer\TAT.LOADer\bin\Release\TAT.LOADer.pdb
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness05(Spyer)\TAT.LOADer\TAT.LOADer\obj\x86\Release\TAT.LOADer.Form1.resources
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness05(Spyer)\TAT.LOADer\TAT.LOADer\obj\x86\Release\TAT.LOADer.Properties.Resources.resources
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness05(Spyer)\TAT.LOADer\TAT.LOADer\obj\x86\Release\TAT.LOADer.csproj.GenerateResource.Cache
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness05(Spyer)\TAT.LOADer\TAT.LOADer\obj\x86\Release\TAT.LOADer.exe
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness05(Spyer)\TAT.LOADer\TAT.LOADer\obj\x86\Release\TAT.LOADer.pdb

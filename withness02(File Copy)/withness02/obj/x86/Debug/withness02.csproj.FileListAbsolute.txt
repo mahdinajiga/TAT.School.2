@@ -1,0 +1,14 @@
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness02\withness02\bin\Debug\withness02.exe
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness02\withness02\bin\Debug\withness02.pdb
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness02\withness02\obj\x86\Debug\withness02.Form1.resources
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness02\withness02\obj\x86\Debug\withness02.Properties.Resources.resources
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness02\withness02\obj\x86\Debug\withness02.csproj.GenerateResource.Cache
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness02\withness02\obj\x86\Debug\withness02.exe
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness02\withness02\obj\x86\Debug\withness02.pdb
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness02(File Copy)\withness02\obj\x86\Debug\withness02.exe
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness02(File Copy)\withness02\obj\x86\Debug\withness02.pdb
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness02(File Copy)\withness02\bin\Debug\withness02.exe
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness02(File Copy)\withness02\bin\Debug\withness02.pdb
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness02(File Copy)\withness02\obj\x86\Debug\withness02.Form1.resources
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness02(File Copy)\withness02\obj\x86\Debug\withness02.Properties.Resources.resources
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness02(File Copy)\withness02\obj\x86\Debug\withness02.csproj.GenerateResource.Cache

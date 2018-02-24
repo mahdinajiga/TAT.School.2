@@ -1,0 +1,17 @@
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T\C.N.T\bin\Debug\C.N.T.exe
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T\C.N.T\bin\Debug\C.N.T.pdb
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T\C.N.T\obj\x86\Debug\C.N.T.Form1.resources
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T\C.N.T\obj\x86\Debug\C.N.T.Properties.Resources.resources
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T\C.N.T\obj\x86\Debug\C.N.T.csproj.GenerateResource.Cache
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T\C.N.T\obj\x86\Debug\C.N.T.exe
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T\C.N.T\obj\x86\Debug\C.N.T.pdb
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T.Project\C.N.T\bin\Debug\C.N.T.exe
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T.Project\C.N.T\bin\Debug\C.N.T.pdb
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T.Project\C.N.T\obj\x86\Debug\C.N.T.Form1.resources
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T.Project\C.N.T\obj\x86\Debug\C.N.T.Properties.Resources.resources
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T.Project\C.N.T\obj\x86\Debug\C.N.T.csproj.GenerateResource.Cache
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T.Project\C.N.T\obj\x86\Debug\C.N.T.exe
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T.Project\C.N.T\obj\x86\Debug\C.N.T.pdb
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T.Project\C.N.T\obj\x86\Debug\C.N.T.csprojResolveAssemblyReference.cache
+D:\Mahdi\Programing\CSharpCPP\OLD_FILES\Projects\TAT.School.2\C.N.T.Project\C.N.T\obj\x86\Debug\C.N.T.exe
+D:\Mahdi\Programing\CSharpCPP\OLD_FILES\Projects\TAT.School.2\C.N.T.Project\C.N.T\obj\x86\Debug\C.N.T.pdb

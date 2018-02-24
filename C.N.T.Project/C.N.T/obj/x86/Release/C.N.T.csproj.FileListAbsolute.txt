@@ -1,0 +1,14 @@
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T\C.N.T\bin\Release\C.N.T.exe
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T\C.N.T\bin\Release\C.N.T.pdb
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T\C.N.T\obj\x86\Release\C.N.T.Form1.resources
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T\C.N.T\obj\x86\Release\C.N.T.Properties.Resources.resources
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T\C.N.T\obj\x86\Release\C.N.T.csproj.GenerateResource.Cache
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T\C.N.T\obj\x86\Release\C.N.T.exe
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T\C.N.T\obj\x86\Release\C.N.T.pdb
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T.Project\C.N.T\obj\x86\Release\C.N.T.exe
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T.Project\C.N.T\obj\x86\Release\C.N.T.pdb
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T.Project\C.N.T\bin\Release\C.N.T.exe
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T.Project\C.N.T\bin\Release\C.N.T.pdb
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T.Project\C.N.T\obj\x86\Release\C.N.T.Form1.resources
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T.Project\C.N.T\obj\x86\Release\C.N.T.Properties.Resources.resources
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\C.N.T.Project\C.N.T\obj\x86\Release\C.N.T.csproj.GenerateResource.Cache

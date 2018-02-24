@@ -1,0 +1,12 @@
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\TAT.School.2\obj\x86\Debug\TAT.School.2.csprojResolveAssemblyReference.cache
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\TAT.School.2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\TAT.School.2\obj\x86\Debug\TAT.School.2.csproj.GenerateResource.Cache
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\TAT.School.2\bin\Debug\TAT.School.2.exe
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\TAT.School.2\bin\Debug\TAT.School.2.pdb
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\TAT.School.2\obj\x86\Debug\TAT.School.2.exe
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\TAT.School.2\obj\x86\Debug\TAT.School.2.pdb
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\TAT.School.2\bin\Debug\TAT.School.2.exe.config
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\TAT.School.2\obj\x86\Debug\ESETTAT.Properties.Resources.resources
+D:\Mahdi\Programing\CSharpCPP\OLD_FILES\Projects\TAT.School.2\TAT.School.2\bin\Debug\TAT.School.2.exe.config
+D:\Mahdi\Programing\CSharpCPP\OLD_FILES\Projects\TAT.School.2\TAT.School.2\obj\x86\Debug\TAT.School.2.exe
+D:\Mahdi\Programing\CSharpCPP\OLD_FILES\Projects\TAT.School.2\TAT.School.2\obj\x86\Debug\TAT.School.2.pdb

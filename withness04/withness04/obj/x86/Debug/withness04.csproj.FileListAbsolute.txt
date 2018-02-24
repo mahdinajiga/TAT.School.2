@@ -1,0 +1,14 @@
+C:\Users\Mahdi\AppData\Local\Temporary Projects\withness04\bin\Debug\withness04.exe
+C:\Users\Mahdi\AppData\Local\Temporary Projects\withness04\bin\Debug\withness04.pdb
+C:\Users\Mahdi\AppData\Local\Temporary Projects\withness04\obj\x86\Debug\withness04.Form1.resources
+C:\Users\Mahdi\AppData\Local\Temporary Projects\withness04\obj\x86\Debug\withness04.Properties.Resources.resources
+C:\Users\Mahdi\AppData\Local\Temporary Projects\withness04\obj\x86\Debug\withness04.csproj.GenerateResource.Cache
+C:\Users\Mahdi\AppData\Local\Temporary Projects\withness04\obj\x86\Debug\withness04.exe
+C:\Users\Mahdi\AppData\Local\Temporary Projects\withness04\obj\x86\Debug\withness04.pdb
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness04\withness04\obj\x86\Debug\withness04.exe
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness04\withness04\obj\x86\Debug\withness04.pdb
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness04\withness04\bin\Debug\withness04.exe
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness04\withness04\bin\Debug\withness04.pdb
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness04\withness04\obj\x86\Debug\withness04.Form1.resources
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness04\withness04\obj\x86\Debug\withness04.Properties.Resources.resources
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness04\withness04\obj\x86\Debug\withness04.csproj.GenerateResource.Cache

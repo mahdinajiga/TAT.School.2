@@ -1,0 +1,15 @@
+C:\Users\Mahdi\AppData\Local\Temporary Projects\TAT.LOADer\bin\Debug\TAT.LOADer.exe
+C:\Users\Mahdi\AppData\Local\Temporary Projects\TAT.LOADer\bin\Debug\TAT.LOADer.pdb
+C:\Users\Mahdi\AppData\Local\Temporary Projects\TAT.LOADer\obj\x86\Debug\TAT.LOADer.Form1.resources
+C:\Users\Mahdi\AppData\Local\Temporary Projects\TAT.LOADer\obj\x86\Debug\TAT.LOADer.Properties.Resources.resources
+C:\Users\Mahdi\AppData\Local\Temporary Projects\TAT.LOADer\obj\x86\Debug\TAT.LOADer.csproj.GenerateResource.Cache
+C:\Users\Mahdi\AppData\Local\Temporary Projects\TAT.LOADer\obj\x86\Debug\TAT.LOADer.exe
+C:\Users\Mahdi\AppData\Local\Temporary Projects\TAT.LOADer\obj\x86\Debug\TAT.LOADer.pdb
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness05(Spyer)\TAT.LOADer\TAT.LOADer\obj\x86\Debug\TAT.LOADer.exe
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness05(Spyer)\TAT.LOADer\TAT.LOADer\obj\x86\Debug\TAT.LOADer.pdb
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness05(Spyer)\TAT.LOADer\TAT.LOADer\bin\Debug\TAT.LOADer.exe
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness05(Spyer)\TAT.LOADer\TAT.LOADer\bin\Debug\TAT.LOADer.pdb
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness05(Spyer)\TAT.LOADer\TAT.LOADer\obj\x86\Debug\TAT.LOADer.Form1.resources
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness05(Spyer)\TAT.LOADer\TAT.LOADer\obj\x86\Debug\TAT.LOADer.Properties.Resources.resources
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness05(Spyer)\TAT.LOADer\TAT.LOADer\obj\x86\Debug\TAT.LOADer.csproj.GenerateResource.Cache
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness05(Spyer)\TAT.LOADer\TAT.LOADer\obj\x86\Debug\TAT.LOADer.csprojResolveAssemblyReference.cache

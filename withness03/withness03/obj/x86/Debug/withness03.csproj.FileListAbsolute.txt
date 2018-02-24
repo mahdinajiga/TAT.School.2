@@ -1,0 +1,16 @@
+C:\Users\Mahdi\AppData\Local\Temporary Projects\withness03\bin\Debug\withness03.exe
+C:\Users\Mahdi\AppData\Local\Temporary Projects\withness03\bin\Debug\withness03.pdb
+C:\Users\Mahdi\AppData\Local\Temporary Projects\withness03\obj\x86\Debug\withness03.Form1.resources
+C:\Users\Mahdi\AppData\Local\Temporary Projects\withness03\obj\x86\Debug\withness03.Properties.Resources.resources
+C:\Users\Mahdi\AppData\Local\Temporary Projects\withness03\obj\x86\Debug\withness03.csproj.GenerateResource.Cache
+C:\Users\Mahdi\AppData\Local\Temporary Projects\withness03\obj\x86\Debug\withness03.exe
+C:\Users\Mahdi\AppData\Local\Temporary Projects\withness03\obj\x86\Debug\withness03.pdb
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness03\withness03\obj\x86\Debug\withness03.exe
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness03\withness03\obj\x86\Debug\withness03.pdb
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness03\withness03\bin\Debug\withness03.exe.config
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness03\withness03\obj\x86\Debug\withness03.csprojResolveAssemblyReference.cache
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness03\withness03\obj\x86\Debug\withness03.Form1.resources
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness03\withness03\obj\x86\Debug\withness03.Properties.Resources.resources
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness03\withness03\obj\x86\Debug\withness03.csproj.GenerateResource.Cache
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness03\withness03\bin\Debug\withness03.exe
+D:\Mahdi\Programing\C# and C++\Projects\TAT.School.2\withness03\withness03\bin\Debug\withness03.pdb
