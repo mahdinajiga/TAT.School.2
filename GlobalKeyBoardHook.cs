@@ -7,6 +7,9 @@
 *  This means you can use this Code for whatever you want as long as you credit me! That means...
 *  DO NOT REMOVE THE LINES ABOVE !!! 
 */
+
+//              Thank you TheDarkJoker94 :D
+
 #endregion
 using System;
 using System.Text;
